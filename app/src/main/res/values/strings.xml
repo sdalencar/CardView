@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="nomep">Sérgio de Alencar</string>
+    <string name="agora_mesmo">agora mesmo</string>
+    <string name="imagem_legal">imagem legal</string>
+    <string name="gostei">Gostei</string>
+    <string name="comentar">Comentar</string>
+</resources>
